@@ -11,4 +11,9 @@
 ![image](https://github.com/saveliykirsanov/math/assets/144109400/45e30727-5065-4708-a17d-353a8b597ab7)
 
 
+### ПРИМЕР ОСТАТОЧНОГО ДЕЛЕНИЯ
+
+![image](https://github.com/saveliykirsanov/math/assets/144109400/2b1d8969-6cfe-46b5-90ad-0fc64954b09a)
+
+
 
