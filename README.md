@@ -16,4 +16,9 @@
 ![image](https://github.com/saveliykirsanov/math/assets/144109400/2b1d8969-6cfe-46b5-90ad-0fc64954b09a)
 
 
+### ФОРМУЛА ДЕЛЕНИЯ
+
+**A % B = 0,1,2....B-1 % 8 - 8 0<A%B,B**
+
+
 
